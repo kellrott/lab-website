@@ -20,10 +20,10 @@ filter_default = 1
 
 [[filter]]
   name = "Current"
-  tag = "Current"
+  tag = ".current"
 
 [[filter]]
   name = "Alumni"
-  tag = "Alumni"
+  tag = ".alumni"
 
 +++
