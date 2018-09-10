@@ -1,7 +1,7 @@
 +++
 title = "G2P Whitepaper"
 date = 2018-09-09T13:56:34-07:00
-draft = false
+draft = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Adam Margolin", "Josh Stuart", "Kyle Ellrott"]
