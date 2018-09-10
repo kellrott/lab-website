@@ -3,10 +3,10 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl = "https://ellrottlab.org"
 
 # Title of your site
-title = "dsgarage.org"
+title = "ellrottlab.org"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -109,10 +109,10 @@ enableGitInfo = false
   time_format = "3:04 PM"
 
   # Show estimated reading time for posts?
-  reading_time = true
+  reading_time = false
 
   # Display comment count? Requires commenting to be enabled.
-  comment_count = true
+  comment_count = false
 
   # Display next/previous section pager?
   section_pager = false
@@ -259,22 +259,22 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Projects"
-  url = "#projects"
+  url = "/project/"
   weight = 2
 
 [[menu.main]]
   name = "People"
-  url = "#people"
+  url = "/people/"
   weight = 3
 
 [[menu.main]]
   name = "Publications"
-  url = "#publications_selected"
+  url = "/publication/"
   weight = 4
 
 [[menu.main]]
   name = "Posts"
-  url = "#posts"
+  url = "/post/"
   weight = 5
 
 
