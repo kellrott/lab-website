@@ -8,7 +8,7 @@ title = "People"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 10
+weight = 40
 
 folder = "people"
 view = 1
@@ -19,11 +19,11 @@ filter_default = 1
   tag = "*"
 
 [[filter]]
-  name = "Current"
-  tag = ".current"
+  name = "Staff"
+  tag = "Staff"
 
 [[filter]]
   name = "Alumni"
-  tag = ".alumni"
+  tag = "Alumni"
 
 +++

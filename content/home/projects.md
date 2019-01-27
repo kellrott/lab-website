@@ -8,7 +8,7 @@ title = "Projects"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 5
+weight = 50
 
 # Content.
 # Display content from the following folder.
@@ -34,14 +34,14 @@ filter_default = 0
 
 [[filter]]
   name = "Data Systems"
-  tag = ".data-systems"
+  tag = "Data Systems"
 
 [[filter]]
-  name = "Analysis"
-  tag = "analysis"
+  name = "Cancer Biology"
+  tag = "Cancer Biology"
 
 [[filter]]
   name = "Challenges"
-  tag = "challenge"
+  tag = "Dream Challenge"
 
 +++
