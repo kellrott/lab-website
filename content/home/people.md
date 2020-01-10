@@ -9,7 +9,7 @@ title = "People"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 40
+weight = 50
 
 [content]
   # Choose which groups/teams of users to display.
