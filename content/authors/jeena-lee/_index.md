@@ -1,13 +1,12 @@
 +++
-title = "Ryan Spangler"
-date = 2018-08-20T10:08:23-07:00
+name = "Jeena Lee"
+date = 2018-08-22T08:41:04-07:00
 draft = false
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Alumni"]
+user_groups = ["Alumni"]
 categories = []
-image_preview = ""
 authors=[""]
 
 # Featured image
@@ -16,6 +15,6 @@ authors=[""]
 image = ""
 caption = ""
 
-external_link = "https://github.com/prismofeverything"
+external_link = "https://github.com/jeenalee"
 
 +++

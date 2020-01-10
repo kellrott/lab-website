@@ -1,12 +1,13 @@
 +++
-title = "Jordan Lee"
-date = 2019-07-12T08:41:04-07:00
+name = "Adam Struck"
+date = 2018-08-20T09:34:46-07:00
 draft = false
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Graduate Student", "Computational Biology"]
+user_groups = ["Researchers"]
 categories = []
+
 authors=[""]
 
 # Featured image
@@ -15,6 +16,5 @@ authors=[""]
 image = ""
 caption = ""
 
-external_link = ""
-
 +++
+Adam Struck

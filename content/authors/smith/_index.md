@@ -1,11 +1,11 @@
 +++
-title = "Brian Karlberg"
-date = 2018-08-22T08:41:04-07:00
+name = "Malisa Smith"
+date = 2018-08-22T08:43:02-07:00
 draft = false
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["PhD Student", "Biomedical Engineering"]
+user_groups = ["Alumni"]
 categories = []
 authors=[""]
 
@@ -14,7 +14,6 @@ authors=[""]
 [header]
 image = ""
 caption = ""
-
-external_link = ""
+external_link = "https://github.com/malisas"
 
 +++

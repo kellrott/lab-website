@@ -1,11 +1,11 @@
 +++
-title = "Brian Walsh"
+name = "Brian Walsh"
 date = 2019-01-25T16:44:24-08:00
 draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Staff"]
+user_groups = ["Researchers"]
 
 authors=[""]
 # Project summary to display on homepage.
