@@ -16,7 +16,7 @@ interests:
 
 user_groups:
 - Grad Students
-categories = []
+
 ---
 
 My research is on cancer subtype predction for the NCI Tumor Molecular Pathalogy project.
