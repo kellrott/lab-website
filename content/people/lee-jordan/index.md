@@ -1,4 +1,4 @@
-+++
+---
 title = "Jordan Lee"
 date = 2019-07-12T08:41:04-07:00
 draft = false
@@ -17,4 +17,4 @@ caption = ""
 
 external_link = ""
 
-+++
+---
