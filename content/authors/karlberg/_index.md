@@ -1,20 +1,24 @@
-+++
-name = "Brian Karlberg"
-date = 2018-08-22T08:41:04-07:00
-draft = false
+---
+# Display name
+name: "Brian Karlberg"
 
-# Tags and categories
-# For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-user_groups = ["Grad Students"]
+# Role/position
+role: "PhD student"
+
+# Organizations/Affiliations
+organizations:
+- name: Oregon Health and Science University
+
+# List (academic) interests or hobbies
+interests:
+  - "Computational Biology"
+  - "Precision Oncology"
+
+user_groups:
+- Grad Students
 categories = []
-authors=[""]
+---
 
-# Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = ""
-caption = ""
+My research is on cancer subtype predction for the NCI Tumor Molecular Pathalogy project.
 
-external_link = ""
-
-+++
+2014-2019 Student, Bioengineering, Washington State University
