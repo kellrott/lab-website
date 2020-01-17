@@ -30,6 +30,8 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 
+interests = ["Graph Databases", "Machine Learning", "Pan Cancer", "Cross Project Data Harmonization"]
+
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com"}]
@@ -51,7 +53,7 @@ After spending a career in consulting and startups it is a privilege to collabor
 
 ## Current research focus:
 * Increasing statistical power by lowering barriers to entry and streamlining access to diverse datasets
-* Improving the reach of precision medicine by capturing `evidence` from integration, text mining and machine learning 
+* Improving the reach of precision medicine by capturing `evidence` from integration, text mining and machine learning
 * Facilitating reproducibility, reuse and cost via Graph databases and Cloud management
 
 ## Areas of interest
