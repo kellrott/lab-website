@@ -44,3 +44,31 @@ url_poster = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
+
+
+
+After spending a career in consulting and startups it is a privilege to collaborate with great teams on such worthwhile, meaningful projects.
+
+## Current research focus:
+* Increasing statistical power by lowering barriers to entry and streamlining access to diverse datasets
+* Improving the reach of precision medicine by capturing `evidence` from integration, text mining and machine learning 
+* Facilitating reproducibility, reuse and cost via Graph databases and Cloud management
+
+## Areas of interest
+* Graph Databases
+* Machine Learning
+* Pan Cancer, Cross Project Data Harmonization
+
+## Memberships and associations
+* [ga4gh](https://www.ga4gh.org/)
+* [cancervariants](https://cancervariants.org/)
+* [AnVIL](https://www.genome.gov/Funded-Programs-Projects/Computational-Genomics-and-Data-Science-Program/Genomic-Analysis-Visualization-Informatics-Lab-space-AnVIL)
+
+## Publications
+* A harmonized meta-knowledgebase of clinical interpretations of cancer genomic variants  - https://www.biorxiv.org/content/biorxiv/early/2018/07/11/366856.full.pdf
+
+* Exploring Integrative Analysis using the BioMedical Evidence Graph  - https://www.biorxiv.org/content/biorxiv/early/2019/09/25/773911.full.pdf
+
+## Additional information
+* [LinkedIn](https://www.linkedin.com/in/bwalsh/)
+* [bwalsh.com](http://bwalsh.com)
