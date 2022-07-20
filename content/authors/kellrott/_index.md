@@ -1,6 +1,6 @@
 ---
 # Display name
-name: "Kyle Ellrott"
+title: "Kyle Ellrott"
 
 # Is this the primary user of the site?
 superuser: true

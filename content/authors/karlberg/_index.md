@@ -1,6 +1,6 @@
 ---
 # Display name
-name: "Brian Karlberg"
+title: "Brian Karlberg"
 
 # Role/position
 role: "PhD student"

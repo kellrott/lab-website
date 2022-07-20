@@ -1,5 +1,5 @@
 +++
-name = "Alex Buchanan"
+title = "Alex Buchanan"
 date = 2018-08-20T09:56:25-07:00
 draft = false
 

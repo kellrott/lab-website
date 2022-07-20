@@ -1,7 +1,9 @@
 +++
-name = "Brian Walsh"
+title = "Brian Walsh"
 date = 2019-01-25T16:44:24-08:00
 draft = false
+
+role = 'Senior Research Software Engineer'
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

@@ -1,18 +1,18 @@
 ---
 # Display name
-name: "Adam Struck"
+title: "Adam Struck"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: "Software Engineer"
+role: "Research Software Engineer"
 
 # Organizations/Affiliations
 organizations:
 - name: Computational Biology Program, Oregon Health and Science University
   url: ""
-  
+
 social:
   - icon: github
     icon_pack: fab
@@ -20,7 +20,7 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://linkedin.com/in/adamjstruck
-    
+
 education:
   courses:
     - course: MSc
@@ -30,7 +30,7 @@ education:
       institution: University of Oregon
       year: 2012
 
-    
+
 # Short bio (displayed in user profile at end of posts)
 bio: ""
 
@@ -45,6 +45,6 @@ interests:
 
 
 user_groups:
-- Researchers
----
+- Alumni
 
+---

@@ -1,6 +1,6 @@
 ---
 # Display name
-name: 'Jordan Lee'
+title: 'Jordan Lee'
 
 # Is this the primary user of the site
 superuser: false
