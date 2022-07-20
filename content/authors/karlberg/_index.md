@@ -19,6 +19,6 @@ user_groups:
 
 ---
 
-My research is on cancer subtype predction for the NCI Tumor Molecular Pathalogy project.
+My research is on cancer subtype prediction for the NCI Tumor Molecular Pathology project.
 
 2014-2019 Student, Bioengineering, Washington State University
