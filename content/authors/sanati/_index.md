@@ -50,3 +50,8 @@ user_groups:
 
 ---
 
+At the Ellrott Lab, Nasim works on advancing consortium-level biomedical data integration and harmonization. Her focus is on transforming complex datasets into interoperable FHIR-based schemas that resemble graph structures and leveraging embeddings to derive meaningful insights. She is especially passionate about the potential of knowledge graphs to connect diverse datasets, uncover hidden patterns, and enable new discoveries in biomedical research.
+
+Outside of work, she spends her time gardening, biking, exploring art and nature, or curled up with a good book. She cherishes spending time with her daughter, whose curiosity and perspective inspires her every day.
+
+
