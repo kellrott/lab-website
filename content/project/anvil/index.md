@@ -2,6 +2,7 @@
 title = "AnVIL"
 date = 2019-01-27T10:27:20-08:00
 draft = false
+show_date = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

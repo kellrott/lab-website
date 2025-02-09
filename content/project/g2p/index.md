@@ -3,6 +3,8 @@ title = "GA4GH G2P"
 date = 2018-08-22T09:02:16-07:00
 draft = false
 
+show_date = false
+
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["API"]

@@ -3,6 +3,7 @@ title = "GDAN"
 date = 2019-01-27T10:34:25-08:00
 draft = false
 
+show_date = false
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["Cancer Biology"]
