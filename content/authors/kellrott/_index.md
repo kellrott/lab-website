@@ -6,7 +6,7 @@ title: "Kyle Ellrott"
 superuser: true
 
 # Role/position
-role: "Assistant Professor"
+role: "Associate Professor"
 
 # Organizations/Affiliations
 organizations:
@@ -40,4 +40,6 @@ My primary research goal is the application of large scale computing techniques 
  - 2003-08 Visiting student at University of Georgia, Athens
  - 2009-11 Postdoctoral Associate, Burnham Institute (Adam Godzik, Advisor)
  - 2012-15 Programmer Analyst, University of California, Santa Cruz (Josh Stuart, Advisor)
- - 2013-14 Contractor, Sage Biosciences, Seattle2015-Assistant Professor, Oregon Health & Science University, Portland
+ - 2013-14 Contractor, Sage Biosciences, Seattle
+ - 2015-?  Professor, Oregon Health & Science University, Portland
+ 
