@@ -20,9 +20,3 @@ Based out of the [OHSU Knight Cancer Institute](https://www.ohsu.edu/xd/health/s
 we study systems biology, cancer, computational systems and integrative analysis. We work on projects funded by the
 Nation Cancer Institute (NCI) and the National Human Genome Research Institute (NHGRI).
 
-If you are interested, we are looking for:
-
- - PhD Students
- - Post Docs
- - Engineering Staff
- - Scientific Research Staff

@@ -22,7 +22,8 @@ folder = "project"
 # View.
 # Customize how projects are displayed.
 # Legend: 0 = list, 1 = cards.
-view = 1
+  view = 1
+  show_date = false
 
 # Filter toolbar.
 
@@ -58,6 +59,7 @@ filter_default = 0
   #   3 = Card
   #   5 = Showcase
   view = 3
+  show_date = false
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
@@ -81,7 +83,6 @@ filter_default = 0
 
   # Text color (true=light or false=dark).
   # text_color_light = true  
-
 [advanced]
  # Custom CSS.
  css_style = ""
