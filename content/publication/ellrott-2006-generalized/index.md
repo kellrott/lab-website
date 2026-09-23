@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2006-01-01'
-lastmod: 2026-09-23T23:37:13.107169Z
+lastmod: 2026-09-23
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2026-09-23T23:37:13.107169Z'
+publishDate: '2026-09-23'
 publication_types:
 - '2'
 abstract: 'Integer programming is a combinatorial optimization method that has been successfully applied to the protein threading problem. We seek to expand the model optimized by this technique to allow for a more accurate description of protein threading. We have developed and implemented an expanded model of integer programming that has the capability to model secondary structure element deletion, which was not possible in previous version of integer programming based optimization.'

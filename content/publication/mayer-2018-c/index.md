@@ -14,7 +14,7 @@ authors:
 tags: []
 categories: []
 date: '2018-01-01'
-lastmod: 2026-09-23T23:37:13.107169Z
+lastmod: 2026-09-23
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2026-09-23T23:37:13.107169Z'
+publishDate: '2026-09-23'
 publication_types:
 - '2'
 abstract: 'C-type lectin receptors (CLRs) are carbohydrate-binding receptors that recognize their ligands often in a Ca2+-dependent manner. Upon ligand binding, myeloid CLRs in innate immunity trigger or inhibit a variety of signaling pathways, thus initiating or modulating effector functions such as cytokine production, phagocytosis, and antigen presentation. CLRs bind to various pathogens, including viruses, fungi, parasites, and bacteria. The bacterium Campylobacter jejuni (C. jejuni) is a very frequent Gram-negative zoonotic pathogen of humans, causing severe intestinal symptoms. Interestingly, C. jejuni expresses several glycosylated surface structures, for example, the capsular polysaccharide (CPS), lipooligosaccharide (LOS), and envelope proteins. This "Methods" paper describes applications of CLR-Fc fusion proteins to screen for yet unknown CLR/bacteria interactions using C. jejuni as an example. ELISA-based detection of CLR/bacteria interactions allows a first prescreening that is further confirmed by flow cytometry-based binding analysis and visualized using confocal microscopy. By applying these methods, we identified Dectin-1 as a novel CLR recognizing two selected C. jejuni isolates with different LOS and CPS genotypes. In conclusion, the here-described applications of CLR-Fc fusion proteins represent useful methods to screen for and identify novel CLR/bacteria interactions.'

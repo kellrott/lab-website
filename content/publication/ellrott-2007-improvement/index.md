@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2007-01-01'
-lastmod: 2026-09-23T23:37:13.107169Z
+lastmod: 2026-09-23
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2026-09-23T23:37:13.107169Z'
+publishDate: '2026-09-23'
 publication_types:
 - '2'
 abstract: 'As a protein evolves, not every part of the amino acid sequence has an equal probability of being deleted or for allowing insertions, because not every amino acid plays an equally important role in maintaining the protein structure. However the most prevalent models in fold recognition methods treat every amino acid deletion and insertion as equally probable events. We have analyzed the alignment patterns for homologous and analogous sequences to determine patterns of insertion and deletions, and used that information to determine the statistics of insertions and deletions for different amino acids of a target sequence. We define these patterns as Insertion/Deletion (Indel) Frequency Arrays (IFA). By applying IFA to the protein threading problem, we have been able to improve the alignment accuracy, especially for proteins with low sequence identity.'

@@ -57,7 +57,7 @@ authors:
 tags: []
 categories: []
 date: '2010-10-01'
-lastmod: 2026-09-23T23:37:13.107169Z
+lastmod: 2026-09-23
 featured: false
 draft: false
 
@@ -75,7 +75,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2026-09-23T23:37:13.107169Z'
+publishDate: '2026-09-23'
 publication_types:
 - '2'
 abstract: 'Membrane-attack complex/perforin (MACPF) proteins are transmembrane pore-forming proteins that are important in both human immunity and the virulence of pathogens. Bacterial MACPFs are found in diverse bacterial species, including most human gut-associated Bacteroides species. The crystal structure of a bacterial MACPF-domain-containing protein BT_3439 (Bth-MACPF) from B. thetaiotaomicron, a predominant member of the mammalian intestinal microbiota, has been determined. Bth-MACPF contains a membrane-attack complex/perforin (MACPF) domain and two novel C-terminal domains that resemble ribonuclease H and interleukin 8, respectively. The entire protein adopts a flat crescent shape, characteristic of other MACPF proteins, that may be important for oligomerization. This Bth-MACPF structure provides new features and insights not observed in two previous MACPF structures. Genomic context analysis infers that Bth-MACPF may be involved in a novel protein-transport or nutrient-uptake system, suggesting an important role for these MACPF proteins, which were likely to have been inherited from eukaryotes via horizontal gene transfer, in the adaptation of commensal bacteria to the host environment.'

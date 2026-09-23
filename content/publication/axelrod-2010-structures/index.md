@@ -56,7 +56,7 @@ authors:
 tags: []
 categories: []
 date: '2010-10-01'
-lastmod: 2026-09-23T23:37:13.107169Z
+lastmod: 2026-09-23
 featured: false
 draft: false
 
@@ -74,7 +74,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2026-09-23T23:37:13.107169Z'
+publishDate: '2026-09-23'
 publication_types:
 - '2'
 abstract: 'Examination of the genomic context for members of the FmdE Pfam family (PF02663), such as the protein encoded by the fmdE gene from the methanogenic archaeon Methanobacterium thermoautotrophicum, indicates that 13 of them are co-transcribed with genes encoding subunits of molybdenum formylmethanofuran dehydrogenase (EC 1.2.99.5), an enzyme that is involved in microbial methane production. Here, the first crystal structures from PF02663 are described, representing two bacterial and one archaeal species: B8FYU2_DESHY from the anaerobic dehalogenating bacterium Desulfitobacterium hafniense DCB-2, Q2LQ23_SYNAS from the syntrophic bacterium Syntrophus aciditrophicus SB and Q9HJ63_THEAC from the thermoacidophilic archaeon Thermoplasma acidophilum. Two of these proteins, Q9HJ63_THEAC and Q2LQ23_SYNAS, contain two domains: an N-terminal thioredoxin-like α+β core domain (NTD) consisting of a five-stranded, mixed β-sheet flanked by several α-helices and a C-terminal zinc-finger domain (CTD). B8FYU2_DESHY, on the other hand, is composed solely of the NTD. The CTD of Q9HJ63_THEAC and Q2LQ23_SYNAS is best characterized as a treble-clef zinc finger. Two significant structural differences between Q9HJ63_THEAC and Q2LQ23_SYNAS involve their metal binding. First, zinc is bound to the putative active site on the NTD of Q9HJ63_THEAC, but is absent from the NTD of Q2LQ23_SYNAS. Second, whereas the structure of the CTD of Q2LQ23_SYNAS shows four Cys side chains within coordination distance of the Zn atom, the structure of Q9HJ63_THEAC is atypical for a treble-cleft zinc finger in that three Cys side chains and an Asp side chain are within coordination distance of the zinc.'

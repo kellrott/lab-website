@@ -59,7 +59,7 @@ authors:
 tags: []
 categories: []
 date: '2010-10-01'
-lastmod: 2026-09-23T23:37:13.107169Z
+lastmod: 2026-09-23
 featured: false
 draft: false
 
@@ -77,7 +77,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2026-09-23T23:37:13.107169Z'
+publishDate: '2026-09-23'
 publication_types:
 - '2'
 abstract: 'Proteins that contain the DUF2874 domain constitute a new Pfam family PF11396. Members of this family have predominantly been identified in microbes found in the human gut and oral cavity. The crystal structure of one member of this family, BVU2987 from Bacteroides vulgatus, has been determined, revealing a β-lactamase inhibitor protein-like structure with a tandem repeat of domains. Sequence analysis and structural comparisons reveal that BVU2987 and other DUF2874 proteins are related to β-lactamase inhibitor protein, PepSY and SmpA_OmlA proteins and hence are likely to function as inhibitory proteins.'

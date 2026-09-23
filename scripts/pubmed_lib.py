@@ -260,7 +260,7 @@ def _yaml_escape(value: str) -> str:
     return value.replace("'", "''")
 
 
-def build_front_matter(record: PubMedRecord, now_iso: str) -> str:
+def build_front_matter(record: PubMedRecord, now_date: str) -> str:
     authors_block = "\n".join(f"- {author}" for author in record.authors) or "- ' others'"
     doi_line = f"doi: {record.doi}\n" if record.doi else ""
     url_line = "" if record.doi else f"url_pdf: 'https://pubmed.ncbi.nlm.nih.gov/{record.pmid}/'\n"
@@ -278,7 +278,7 @@ authors:
 tags: []
 categories: []
 date: '{record.date_str}'
-lastmod: {now_iso}
+lastmod: {now_date}
 featured: false
 draft: false
 
@@ -296,7 +296,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '{now_iso}'
+publishDate: '{now_date}'
 publication_types:
 - '2'
 abstract: '{abstract}'

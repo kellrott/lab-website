@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2008-01-01'
-lastmod: 2026-09-23T23:37:13.107169Z
+lastmod: 2026-09-23
 featured: false
 draft: false
 
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2026-09-23T23:37:13.107169Z'
+publishDate: '2026-09-23'
 publication_types:
 - '2'
 abstract: 'This chapter presents a broad and a historical overview of the problem of protein structure prediction. Different structure prediction methods, including homology modeling, fold recognition (FR)/protein threading, ab initio/de novo approaches, and hybrid techniques involving multiple types of approaches, are introduced in a historical context. The progress of the field as a whole, especially in the threading/FR area, as reflected by the CASP/CAFASP contests, is reviewed. At the end of the chapter, we discuss the challenging issues ahead in the field of protein structure prediction.'

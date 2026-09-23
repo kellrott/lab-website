@@ -59,7 +59,7 @@ authors:
 tags: []
 categories: []
 date: '2010-11-01'
-lastmod: 2026-09-23T23:37:13.107169Z
+lastmod: 2026-09-23
 featured: false
 draft: false
 
@@ -77,7 +77,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2026-09-23T23:37:13.107169Z'
+publishDate: '2026-09-23'
 publication_types:
 - '2'
 abstract: 'Sufu (Suppressor of Fused), a two-domain protein, plays a critical role in regulating Hedgehog signaling and is conserved from flies to humans. A few bacterial Sufu-like proteins have previously been identified based on sequence similarity to the N-terminal domain of eukaryotic Sufu proteins, but none have been structurally or biochemically characterized and their function in bacteria is unknown. We have determined the crystal structure of a more distantly related Sufu-like homolog, NGO1391 from Neisseria gonorrhoeae, at 1.4 Å resolution, which provides the first biophysical characterization of a bacterial Sufu-like protein. The structure revealed a striking similarity to the N-terminal domain of human Sufu (r.m.s.d. of 2.6 Å over 93% of the NGO1391 protein), despite an extremely low sequence identity of ∼15%. Subsequent sequence analysis revealed that NGO1391 defines a new subset of smaller, Sufu-like proteins that are present in ∼200 bacterial species and has resulted in expansion of the SUFU (PF05076) family in Pfam.'

@@ -54,7 +54,7 @@ authors:
 tags: []
 categories: []
 date: '2017-11-22'
-lastmod: 2026-09-23T23:37:13.107169Z
+lastmod: 2026-09-23
 featured: false
 draft: false
 
@@ -72,7 +72,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2026-09-23T23:37:13.107169Z'
+publishDate: '2026-09-23'
 publication_types:
 - '2'
 abstract: 'We report the results of a DREAM challenge designed to predict relative genetic essentialities based on a novel dataset testing 98,000 shRNAs against 149 molecularly characterized cancer cell lines. We analyzed the results of over 3,000 submissions over a period of 4 months. We found that algorithms combining essentiality data across multiple genes demonstrated increased accuracy; gene expression was the most informative molecular data type; the identity of the gene being predicted was far more important than the modeling strategy; well-predicted genes and selected molecular features showed enrichment in functional categories; and frequently selected expression features correlated with survival in primary tumors. This study establishes benchmarks for gene essentiality prediction, presents a community resource for future comparison with this benchmark, and provides insights into factors influencing the ability to predict gene essentiality from functional genetic screens. This study also demonstrates the value of releasing pre-publication data publicly to engage the community in an open research collaboration.'

@@ -38,7 +38,7 @@ authors:
 tags: []
 categories: []
 date: '2025-04-01'
-lastmod: 2026-09-23T23:37:13.107169Z
+lastmod: 2026-09-23
 featured: false
 draft: false
 
@@ -56,7 +56,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2026-09-23T23:37:13.107169Z'
+publishDate: '2026-09-23'
 publication_types:
 - '2'
 abstract: 'Subclonal reconstruction algorithms use bulk DNA sequencing data to quantify parameters of tumor evolution, allowing an assessment of how cancers initiate, progress and respond to selective pressures. We launched the ICGC-TCGA (International Cancer Genome Consortium-The Cancer Genome Atlas) DREAM Somatic Mutation Calling Tumor Heterogeneity and Evolution Challenge to benchmark existing subclonal reconstruction algorithms. This 7-year community effort used cloud computing to benchmark 31 subclonal reconstruction algorithms on 51 simulated tumors. Algorithms were scored on seven independent tasks, leading to 12,061 total runs. Algorithm choice influenced performance substantially more than tumor features but purity-adjusted read depth, copy-number state and read mappability were associated with the performance of most algorithms on most tasks. No single algorithm was a top performer for all seven tasks and existing ensemble strategies were unable to outperform the best individual methods, highlighting a key research need. All containerized methods, evaluation code and datasets are available to support further assessment of the determinants of subclonal reconstruction accuracy and development of improved methods to understand tumor evolution.'

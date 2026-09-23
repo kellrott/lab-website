@@ -29,7 +29,7 @@ authors:
 tags: []
 categories: []
 date: '2020-09-21'
-lastmod: 2026-09-23T23:37:13.107169Z
+lastmod: 2026-09-23
 featured: false
 draft: false
 
@@ -47,7 +47,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2026-09-23T23:37:13.107169Z'
+publishDate: '2026-09-23'
 publication_types:
 - '2'
 abstract: 'The Cancer Genome Atlas (TCGA) and International Cancer Genome Consortium (ICGC) curated consensus somatic mutation calls using whole exome sequencing (WES) and whole genome sequencing (WGS), respectively. Here, as part of the ICGC/TCGA Pan-Cancer Analysis of Whole Genomes (PCAWG) Consortium, which aggregated whole genome sequencing data from 2,658 cancers across 38 tumour types, we compare WES and WGS side-by-side from 746 TCGA samples, finding that ~80% of mutations overlap in covered exonic regions. We estimate that low variant allele fraction (VAF < 15%) and clonal heterogeneity contribute up to 68% of private WGS mutations and 71% of private WES mutations. We observe that ~30% of private WGS mutations trace to mutations identified by a single variant caller in WES consensus efforts. WGS captures both ~50% more variation in exonic regions and un-observed mutations in loci with variable GC-content. Together, our analysis highlights technological divergences between two reproducible somatic variant detection efforts.'

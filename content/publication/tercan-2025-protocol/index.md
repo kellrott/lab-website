@@ -26,7 +26,7 @@ authors:
 tags: []
 categories: []
 date: '2025-06-20'
-lastmod: 2026-09-23T23:37:13.107169Z
+lastmod: 2026-09-23
 featured: false
 draft: false
 
@@ -44,7 +44,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2026-09-23T23:37:13.107169Z'
+publishDate: '2026-09-23'
 publication_types:
 - '2'
 abstract: 'As genes tend to be co-regulated as gene modules, feature selection in machine learning (ML) on gene expression data can be challenged by the complexity of gene regulation. Here, we present a protocol for reconciling differences in classifier features identified using different ML approaches. We describe steps for loading the PathwaySpace R package, preparing input for analysis, and creating density plots of gene sets. We then detail procedures for testing whether apparently distinct feature sets are related in pathway space. For complete details on the use and execution of this protocol, please refer to Ellrott et al.1.'

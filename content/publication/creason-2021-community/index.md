@@ -38,7 +38,7 @@ authors:
 tags: []
 categories: []
 date: '2021-08-18'
-lastmod: 2026-09-23T23:37:13.107169Z
+lastmod: 2026-09-23
 featured: false
 draft: false
 
@@ -56,7 +56,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2026-09-23T23:37:13.107169Z'
+publishDate: '2026-09-23'
 publication_types:
 - '2'
 abstract: 'The accurate identification and quantitation of RNA isoforms present in the cancer transcriptome is key for analyses ranging from the inference of the impacts of somatic variants to pathway analysis to biomarker development and subtype discovery. The ICGC-TCGA DREAM Somatic Mutation Calling in RNA (SMC-RNA) challenge was a crowd-sourced effort to benchmark methods for RNA isoform quantification and fusion detection from bulk cancer RNA sequencing (RNA-seq) data. It concluded in 2018 with a comparison of 77 fusion detection entries and 65 isoform quantification entries on 51 synthetic tumors and 32 cell lines with spiked-in fusion constructs. We report the entries used to build this benchmark, the leaderboard results, and the experimental features associated with the accurate prediction of RNA species. This challenge required submissions to be in the form of containerized workflows, meaning each of the entries described is easily reusable through CWL and Docker containers at https://github.com/SMC-RNA-challenge. A record of this paper''s transparent peer review process is included in the supplemental information.'

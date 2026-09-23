@@ -82,7 +82,7 @@ def cmd_sync(args: argparse.Namespace) -> int:
     records = client.efetch_records(pmids)
     index = lib.build_existing_index()
     existing_folders = lib.existing_folder_names()
-    now_iso = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%S.%fZ")
+    now_date = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%d")
 
     created = updated = skipped = 0
 
@@ -113,7 +113,7 @@ def cmd_sync(args: argparse.Namespace) -> int:
         print(f"CREATE {record.pmid} -> {slug}")
         if not args.dry_run:
             pub_dir.mkdir(parents=True, exist_ok=False)
-            (pub_dir / "index.md").write_text(lib.build_front_matter(record, now_iso), encoding="utf-8")
+            (pub_dir / "index.md").write_text(lib.build_front_matter(record, now_date), encoding="utf-8")
             (pub_dir / "cite.bib").write_text(lib.build_cite_bib(record), encoding="utf-8")
         created += 1
 

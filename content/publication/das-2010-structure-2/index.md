@@ -61,7 +61,7 @@ authors:
 tags: []
 categories: []
 date: '2010-10-01'
-lastmod: 2026-09-23T23:37:13.107169Z
+lastmod: 2026-09-23
 featured: false
 draft: false
 
@@ -79,7 +79,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2026-09-23T23:37:13.107169Z'
+publishDate: '2026-09-23'
 publication_types:
 - '2'
 abstract: 'KPN03535 (gi|152972051) is a putative lipoprotein of unknown function that is secreted by Klebsiella pneumoniae MGH 78578. The crystal structure reveals that despite a lack of any detectable sequence similarity to known structures, it is a novel variant of the OB-fold and structurally similar to the bacterial Cpx-pathway protein NlpE, single-stranded DNA-binding (SSB) proteins and toxins. K. pneumoniae MGH 78578 forms part of the normal human skin, mouth and gut flora and is an opportunistic pathogen that is linked to about 8% of all hospital-acquired infections in the USA. This structure provides the foundation for further investigations into this divergent member of the OB-fold family.'

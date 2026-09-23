@@ -2,3 +2,5 @@
 /public
 /scripts/pubmed_review.tsv
 /scripts/.venv
+__pycache__
+.hugo_build.lock

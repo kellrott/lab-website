@@ -65,7 +65,7 @@ authors:
 tags: []
 categories: []
 date: '2010-10-01'
-lastmod: 2026-09-23T23:37:13.107169Z
+lastmod: 2026-09-23
 featured: false
 draft: false
 
@@ -83,7 +83,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2026-09-23T23:37:13.107169Z'
+publishDate: '2026-09-23'
 publication_types:
 - '2'
 abstract: 'The crystal structures of BB2672 and SPO0826 were determined to resolutions of 1.7 and 2.1 Å by single-wavelength anomalous dispersion and multiple-wavelength anomalous dispersion, respectively, using the semi-automated high-throughput pipeline of the Joint Center for Structural Genomics (JCSG) as part of the NIGMS Protein Structure Initiative (PSI). These proteins are the first structural representatives of the PF06684 (DUF1185) Pfam family. Structural analysis revealed that both structures adopt a variant of the Bacillus chorismate mutase fold (BCM). The biological unit of both proteins is a hexamer and analysis of homologs indicates that the oligomer interface residues are highly conserved. The conformation of the critical regions for oligomerization appears to be dependent on pH or salt concentration, suggesting that this protein might be subject to environmental regulation. Structural similarities to BCM and genome-context analysis suggest a function in amino-acid synthesis.'

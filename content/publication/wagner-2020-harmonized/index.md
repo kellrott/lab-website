@@ -48,7 +48,7 @@ authors:
 tags: []
 categories: []
 date: '2020-04-01'
-lastmod: 2026-09-23T23:37:13.107169Z
+lastmod: 2026-09-23
 featured: false
 draft: false
 
@@ -66,7 +66,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2026-09-23T23:37:13.107169Z'
+publishDate: '2026-09-23'
 publication_types:
 - '2'
 abstract: 'Precision oncology relies on accurate discovery and interpretation of genomic variants, enabling individualized diagnosis, prognosis and therapy selection. We found that six prominent somatic cancer variant knowledgebases were highly disparate in content, structure and supporting primary literature, impeding consensus when evaluating variants and their relevance in a clinical setting. We developed a framework for harmonizing variant interpretations to produce a meta-knowledgebase of 12,856 aggregate interpretations. We demonstrated large gains in overlap between resources across variants, diseases and drugs as a result of this harmonization. We subsequently demonstrated improved matching between a patient cohort and harmonized interpretations of potential clinical significance, observing an increase from an average of 33% per individual knowledgebase to 57% in aggregate. Our analyses illuminate the need for open, interoperable sharing of variant interpretation data. We also provide a freely available web interface (search.cancervariants.org) for exploring the harmonized interpretations from these six knowledgebases.'

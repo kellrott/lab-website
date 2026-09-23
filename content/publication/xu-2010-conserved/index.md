@@ -59,7 +59,7 @@ authors:
 tags: []
 categories: []
 date: '2010-10-01'
-lastmod: 2026-09-23T23:37:13.107169Z
+lastmod: 2026-09-23
 featured: false
 draft: false
 
@@ -77,7 +77,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2026-09-23T23:37:13.107169Z'
+publishDate: '2026-09-23'
 publication_types:
 - '2'
 abstract: 'BT1062 from Bacteroides thetaiotaomicron is a homolog of Mfa2 (PGN0288 or PG0179), which is a component of the minor fimbriae in Porphyromonas gingivalis. The crystal structure of BT1062 revealed a conserved fold that is widely adopted by fimbrial components.'

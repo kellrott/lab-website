@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2002-12-01'
-lastmod: 2026-09-23T23:37:13.107169Z
+lastmod: 2026-09-23
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2026-09-23T23:37:13.107169Z'
+publishDate: '2026-09-23'
 publication_types:
 - '2'
 abstract: 'A critical and difficult part of characterizing restriction enzymes and methylases is the identification of recognition sequences. To simplify this process, we have developed a plasmid transformation method along with a computer program named RM search that determines the exact recognition sequences for given restriction and modification systems.'

@@ -14,7 +14,7 @@ authors:
 tags: []
 categories: []
 date: '2024-01-01'
-lastmod: 2026-09-23T23:37:13.107169Z
+lastmod: 2026-09-23
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2026-09-23T23:37:13.107169Z'
+publishDate: '2026-09-23'
 publication_types:
 - '2'
 abstract: 'The Global Alliance for Genomics and Health (GA4GH) Task Execution Service (TES) application programming interface (API) is a standardized schema and API for describing and executing batch execution tasks. It provides a common way to submit and manage tasks to a variety of compute environments, including on-premises high-performance computing and high-throughput computing systems, cloud computing platforms, and hybrid environments. The TES API is designed to be flexible and extensible, allowing it to be adapted to a wide range of use cases, such as "bringing compute to the data" solutions for federated and distributed data analysis, or load balancing across multicloud infrastructures. This API has been adopted by numerous different service providers and is utilized by several workflow engines, yielding a single abstracted interface for developers and researchers. Using its capabilities, genome research institutes are building extensible hybrid compute systems to study life science.'

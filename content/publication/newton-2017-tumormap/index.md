@@ -23,7 +23,7 @@ authors:
 tags: []
 categories: []
 date: '2017-11-01'
-lastmod: 2026-09-23T23:37:13.107169Z
+lastmod: 2026-09-23
 featured: false
 draft: false
 
@@ -41,7 +41,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2026-09-23T23:37:13.107169Z'
+publishDate: '2026-09-23'
 publication_types:
 - '2'
 abstract: 'Vast amounts of molecular data are being collected on tumor samples, which provide unique opportunities for discovering trends within and between cancer subtypes. Such cross-cancer analyses require computational methods that enable intuitive and interactive browsing of thousands of samples based on their molecular similarity. We created a portal called TumorMap to assist in exploration and statistical interrogation of high-dimensional complex "omics" data in an interactive and easily interpretable way. In the TumorMap, samples are arranged on a hexagonal grid based on their similarity to one another in the original genomic space and are rendered with Google''s Map technology. While the important feature of this public portal is the ability for the users to build maps from their own data, we pre-built genomic maps from several previously published projects. We demonstrate the utility of this portal by presenting results obtained from The Cancer Genome Atlas project data. Cancer Res; 77(21); e111-4. ©2017 AACR.'

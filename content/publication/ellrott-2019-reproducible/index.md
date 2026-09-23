@@ -22,7 +22,7 @@ authors:
 tags: []
 categories: []
 date: '2019-09-10'
-lastmod: 2026-09-23T23:37:13.107169Z
+lastmod: 2026-09-23
 featured: false
 draft: false
 
@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2026-09-23T23:37:13.107169Z'
+publishDate: '2026-09-23'
 publication_types:
 - '2'
 abstract: 'Challenges are achieving broad acceptance for addressing many biomedical questions and enabling tool assessment. But ensuring that the methods evaluated are reproducible and reusable is complicated by the diversity of software architectures, input and output file formats, and computing environments. To mitigate these problems, some challenges have leveraged new virtualization and compute methods, requiring participants to submit cloud-ready software packages. We review recent data challenges with innovative approaches to model reproducibility and data sharing, and outline key lessons for improving quantitative biomedical data analysis through crowd-sourced benchmarking challenges.'

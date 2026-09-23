@@ -60,7 +60,7 @@ authors:
 tags: []
 categories: []
 date: '2010-02-12'
-lastmod: 2026-09-23T23:37:13.107169Z
+lastmod: 2026-09-23
 featured: false
 draft: false
 
@@ -78,7 +78,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2026-09-23T23:37:13.107169Z'
+publishDate: '2026-09-23'
 publication_types:
 - '2'
 abstract: 'Pleckstrin homology (PH) domains have been identified only in eukaryotic proteins to date. We have determined crystal structures for three members of an uncharacterized protein family (Pfam PF08000), which provide compelling evidence for the existence of PH-like domains in bacteria (PHb). The first two structures contain a single PHb domain that forms a dome-shaped, oligomeric ring with C(5) symmetry. The third structure has an additional helical hairpin attached at the C-terminus and forms a similar but much larger ring with C(12) symmetry. Thus, both molecular assemblies exhibit rare, higher-order, cyclic symmetry but preserve a similar arrangement of their PHb domains, which gives rise to a conserved hydrophilic surface at the intersection of the beta-strands of adjacent protomers that likely mediates protein-protein interactions. As a result of these structures, additional families of PHb domains were identified, suggesting that PH domains are much more widespread than originally anticipated. Thus, rather than being a eukaryotic innovation, the PH domain superfamily appears to have existed before prokaryotes and eukaryotes diverged.'

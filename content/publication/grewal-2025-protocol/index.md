@@ -22,7 +22,7 @@ authors:
 tags: []
 categories: []
 date: '2025-06-20'
-lastmod: 2026-09-23T23:37:13.107169Z
+lastmod: 2026-09-23
 featured: false
 draft: false
 
@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2026-09-23T23:37:13.107169Z'
+publishDate: '2026-09-23'
 publication_types:
 - '2'
 abstract: 'We present a protocol for obtaining cancer type and subtype predictions using a machine learning method (subSCOPE). We describe steps for data preparation, subSCOPE setup, and running subSCOPE inference on prepared data. The protocol supports five -omics data types as input (DNA methylation, gene expression, microRNA [miRNA] expression, point mutations, and copy-number variants) and allows individual cancer type and data type selection. For non-The Cancer Genome Atlas (TCGA) cancer samples, it provides subtype-level classification across 26 different TCGA cancer cohorts and 106 subtypes. For complete details on the use and execution of this protocol, please refer to Ellrott et al.1.'

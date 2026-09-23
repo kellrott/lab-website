@@ -18,7 +18,7 @@ authors:
 tags: []
 categories: []
 date: '2013-10-01'
-lastmod: 2026-09-23T23:37:13.107169Z
+lastmod: 2026-09-23
 featured: false
 draft: false
 
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2026-09-23T23:37:13.107169Z'
+publishDate: '2026-09-23'
 publication_types:
 - '2'
 abstract: 'The Cancer Genome Atlas Pan-Cancer Analysis Working Group collaborated on the Synapse software platform to share and evolve data, results and methodologies while performing integrative analysis of molecular profiling data from 12 tumor types. The group''s work serves as a pilot case study that provides (i) a template for future large collaborative studies; (ii) a system to support collaborative projects; and (iii) a public resource of highly curated data, results and automated systems for the evaluation of community-developed models.'

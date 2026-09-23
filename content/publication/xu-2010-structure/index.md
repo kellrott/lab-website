@@ -57,7 +57,7 @@ authors:
 tags: []
 categories: []
 date: '2010-10-01'
-lastmod: 2026-09-23T23:37:13.107169Z
+lastmod: 2026-09-23
 featured: false
 draft: false
 
@@ -75,7 +75,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2026-09-23T23:37:13.107169Z'
+publishDate: '2026-09-23'
 publication_types:
 - '2'
 abstract: 'Dipeptidyl-peptidase VI from Bacillus sphaericus and YkfC from Bacillus subtilis have both previously been characterized as highly specific γ-D-glutamyl-L-diamino acid endopeptidases. The crystal structure of a YkfC ortholog from Bacillus cereus (BcYkfC) at 1.8 Å resolution revealed that it contains two N-terminal bacterial SH3 (SH3b) domains in addition to the C-terminal catalytic NlpC/P60 domain that is ubiquitous in the very large family of cell-wall-related cysteine peptidases. A bound reaction product (L-Ala-γ-D-Glu) enabled the identification of conserved sequence and structural signatures for recognition of L-Ala and γ-D-Glu and, therefore, provides a clear framework for understanding the substrate specificity observed in dipeptidyl-peptidase VI, YkfC and other NlpC/P60 domains in general. The first SH3b domain plays an important role in defining substrate specificity by contributing to the formation of the active site, such that only murein peptides with a free N-terminal alanine are allowed. A conserved tyrosine in the SH3b domain of the YkfC subfamily is correlated with the presence of a conserved acidic residue in the NlpC/P60 domain and both residues interact with the free amine group of the alanine. This structural feature allows the definition of a subfamily of NlpC/P60 enzymes with the same N-terminal substrate requirements, including a previously characterized cyanobacterial L-alanine-γ-D-glutamate endopeptidase that contains the two key components (an NlpC/P60 domain attached to an SH3b domain) for assembly of a YkfC-like active site.'

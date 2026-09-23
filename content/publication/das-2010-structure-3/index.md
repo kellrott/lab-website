@@ -64,7 +64,7 @@ authors:
 tags: []
 categories: []
 date: '2010-10-01'
-lastmod: 2026-09-23T23:37:13.107169Z
+lastmod: 2026-09-23
 featured: false
 draft: false
 
@@ -82,7 +82,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2026-09-23T23:37:13.107169Z'
+publishDate: '2026-09-23'
 publication_types:
 - '2'
 abstract: 'Proteins with the DUF2063 domain constitute a new Pfam family, PF09836. The crystal structure of a member of this family, NGO1945 from Neisseria gonorrhoeae, has been determined and reveals that the N-terminal DUF2063 domain is likely to be a DNA-binding domain. In conjunction with the rest of the protein, NGO1945 is likely to be involved in transcriptional regulation, which is consistent with genomic neighborhood analysis. Of the 216 currently known proteins that contain a DUF2063 domain, the most significant sequence homologs of NGO1945 (∼40-99% sequence identity) are from various Neisseria and Haemophilus species. As these are important human pathogens, NGO1945 represents an interesting candidate for further exploration via biochemical studies and possible therapeutic intervention.'

@@ -17,7 +17,7 @@ authors:
 tags: []
 categories: []
 date: '2018-04-13'
-lastmod: 2026-09-23T23:37:13.107169Z
+lastmod: 2026-09-23
 featured: false
 draft: false
 
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2026-09-23T23:37:13.107169Z'
+publishDate: '2026-09-23'
 publication_types:
 - '2'
 abstract: 'Tumor neoantigens are drivers of cancer immunotherapy response; however, current prediction tools produce many candidates requiring further prioritization. Additional filtration criteria and population-level understanding may assist with prioritization. Herein, we show neoepitope immunogenicity is related to measures of peptide novelty and report population-level behavior of these and other metrics. We propose four peptide novelty metrics to refine predicted neoantigenicity: tumor vs. paired normal peptide binding affinity difference, tumor vs. paired normal peptide sequence similarity, tumor vs. closest human peptide sequence similarity, and tumor vs. closest microbial peptide sequence similarity. We apply these metrics to neoepitopes predicted from somatic missense mutations in The Cancer Genome Atlas (TCGA) and a cohort of melanoma patients, and to a group of peptides with neoepitope-specific immune response data using an extension of pVAC-Seq (Hundal et al., pVAC-Seq: a genome-guided in silico approach to identifying tumor neoantigens. Genome Med 8:11, 2016). We show neoepitope burden varies across TCGA diseases and HLA alleles, with surprisingly low repetition of neoepitope sequences across patients or neoepitope preferences among sets of HLA alleles. Only 20.3% of predicted neoepitopes across TCGA patients displayed novel binding change based on our binding affinity difference criteria. Similarity of amino acid sequence was typically high between paired tumor-normal epitopes, but in 24.6% of cases, neoepitopes were more similar to other human peptides, or bacterial (56.8% of cases) or viral peptides (15.5% of cases), than their paired normal counterparts. Applied to peptides with neoepitope-specific immune response, a linear model incorporating neoepitope binding affinity, protein sequence similarity between neoepitopes and their closest viral peptides, and paired binding affinity difference was able to predict immunogenicity (AUROC = 0.66). Our proposed prioritization criteria emphasize neoepitope novelty and refine patient neoepitope predictions for focus on biologically meaningful candidate neoantigens. We have demonstrated that neoepitopes should be considered not only with respect to their paired normal epitope, but to the entire human proteome, and bacterial and viral peptides, with potential implications for neoepitope immunogenicity and personalized vaccines for cancer treatment. We conclude that putative neoantigens are highly variable across individuals as a function of cancer genetics and personalized HLA repertoire, while the overall behavior of filtration criteria reflects predictable patterns.'

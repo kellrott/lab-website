@@ -55,7 +55,7 @@ authors:
 tags: []
 categories: []
 date: '2010-10-01'
-lastmod: 2026-09-23T23:37:13.107169Z
+lastmod: 2026-09-23
 featured: false
 draft: false
 
@@ -73,7 +73,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2026-09-23T23:37:13.107169Z'
+publishDate: '2026-09-23'
 publication_types:
 - '2'
 abstract: 'The crystal structure of the Bacteroides thetaiotaomicron protein BT_3984 was determined to a resolution of 1.7 Å and was the first structure to be determined from the extensive SusD family of polysaccharide-binding proteins. SusD is an essential component of the sus operon that defines the paradigm for glycan utilization in dominant members of the human gut microbiota. Structural analysis of BT_3984 revealed an N-terminal region containing several tetratricopeptide repeats (TPRs), while the signature C-terminal region is less structured and contains extensive loop regions. Sequence and structure analysis of BT_3984 suggests the presence of binding interfaces for other proteins from the polysaccharide-utilization complex.'

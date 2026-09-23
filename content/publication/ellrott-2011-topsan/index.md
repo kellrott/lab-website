@@ -15,7 +15,7 @@ authors:
 tags: []
 categories: []
 date: '2011-01-01'
-lastmod: 2026-09-23T23:37:13.107169Z
+lastmod: 2026-09-23
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2026-09-23T23:37:13.107169Z'
+publishDate: '2026-09-23'
 publication_types:
 - '2'
 abstract: 'The Open Protein Structure Annotation Network (TOPSAN) is a web-based collaboration platform for exploring and annotating structures determined by structural genomics efforts. Characterization of those structures presents a challenge since the majority of the proteins themselves have not yet been characterized. Responding to this challenge, the TOPSAN platform facilitates collaborative annotation and investigation via a user-friendly web-based interface pre-populated with automatically generated information. Semantic web technologies expand and enrich TOPSAN''s content through links to larger sets of related databases, and thus, enable data integration from disparate sources and data mining via conventional query languages. TOPSAN can be found at http://www.topsan.org.'

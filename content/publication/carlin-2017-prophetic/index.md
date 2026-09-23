@@ -17,7 +17,7 @@ authors:
 tags: []
 categories: []
 date: '2017-01-01'
-lastmod: 2026-09-23T23:37:13.107169Z
+lastmod: 2026-09-23
 featured: false
 draft: false
 
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2026-09-23T23:37:13.107169Z'
+publishDate: '2026-09-23'
 publication_types:
 - '2'
 abstract: 'We introduce a novel method called Prophetic Granger Causality (PGC) for inferring gene regulatory networks (GRNs) from protein-level time series data. The method uses an L1-penalized regression adaptation of Granger Causality to model protein levels as a function of time, stimuli, and other perturbations. When combined with a data-independent network prior, the framework outperformed all other methods submitted to the HPN-DREAM 8 breast cancer network inference challenge. Our investigations reveal that PGC provides complementary information to other approaches, raising the performance of ensemble learners, while on its own achieves moderate performance. Thus, PGC serves as a valuable new tool in the bioinformatics toolkit for analyzing temporal datasets. We investigate the general and cell-specific interactions predicted by our method and find several novel interactions, demonstrating the utility of the approach in charting new tumor wiring.'

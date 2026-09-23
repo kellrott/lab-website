@@ -30,7 +30,7 @@ authors:
 tags: []
 categories: []
 date: '2025-09-10'
-lastmod: 2026-09-23T23:37:13.107169Z
+lastmod: 2026-09-23
 featured: false
 draft: false
 
@@ -48,7 +48,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2026-09-23T23:37:13.107169Z'
+publishDate: '2026-09-23'
 publication_types:
 - '2'
 abstract: 'RNA sequencing (RNA-seq) has emerged as an exemplary technology in biology and clinical applications, offering a crucial complement to other transcriptomic profiling protocols due to its high sensitivity, precision, and accuracy in characterizing transcriptomes. However, the rapid proliferation of RNA-seq tools necessitates the adoption of robust software development practices. Such development underscores the critical need to examine how RNA-seq tools are developed, maintained, and distributed; and whether the data they generate is reproducible as all of these factors are essential for ensuring software reliability, transparency, and trust in scientific findings. We conducted a comprehensive assessment of 434 RNA-seq tools developed between 2008 and 2024, categorizing them based on the type of analysis they perform. Our evaluation encompassed their software development and distribution methodologies, as well as the attributes contributing to their widespread adoption and dependability within the biomedical community, which were quantified by factors such as package manager availability, containerization, multithreading support, documentation quality, and inclusion of example datasets. Our findings establish the first documented positive association between rigorous software development practices and their adoption of published RNA-seq tools as measured by citations (Mann-Whitney U test, p-value = 4.9e-26). By identifying key characteristics of widely adopted software, our findings guide developing robust and user-friendly RNA-seq tools, thereby reinforcing the call for rigorous community-wide standards.'

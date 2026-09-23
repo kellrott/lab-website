@@ -66,7 +66,7 @@ authors:
 tags: []
 categories: []
 date: '2009-09-11'
-lastmod: 2026-09-23T23:37:13.107169Z
+lastmod: 2026-09-23
 featured: false
 draft: false
 
@@ -84,7 +84,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2026-09-23T23:37:13.107169Z'
+publishDate: '2026-09-23'
 publication_types:
 - '2'
 abstract: 'SsgA-like proteins (SALPs) are a family of homologous cell division-related proteins that occur exclusively in morphologically complex actinomycetes. We show that SsgB, a subfamily of SALPs, is the archetypal SALP that is functionally conserved in all sporulating actinomycetes. Sporulation-specific cell division of Streptomyces coelicolor ssgB mutants is restored by introduction of distant ssgB orthologues from other actinomycetes. Interestingly, the number of septa (and spores) of the complemented null mutants is dictated by the specific ssgB orthologue that is expressed. The crystal structure of the SsgB from Thermobifida fusca was determined at 2.6 A resolution and represents the first structure for this family. The structure revealed similarities to a class of eukaryotic "whirly" single-stranded DNA/RNA-binding proteins. However, the electro-negative surface of the SALPs suggests that neither SsgB nor any of the other SALPs are likely to interact with nucleotide substrates. Instead, we show that a conserved hydrophobic surface is likely to be important for SALP function and suggest that proteins are the likely binding partners.'

@@ -58,7 +58,7 @@ authors:
 tags: []
 categories: []
 date: '2010-10-01'
-lastmod: 2026-09-23T23:37:13.107169Z
+lastmod: 2026-09-23
 featured: false
 draft: false
 
@@ -76,7 +76,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2026-09-23T23:37:13.107169Z'
+publishDate: '2026-09-23'
 publication_types:
 - '2'
 abstract: 'BT2081 from Bacteroides thetaiotaomicron (GenBank accession code NP_810994.1) is a member of a novel protein family consisting of over 160 members, most of which are found in the different classes of Bacteroidetes. Genome-context analysis lends support to the involvement of this family in carbohydrate metabolism, which plays a key role in B. thetaiotaomicron as a predominant bacterial symbiont in the human distal gut microbiome. The crystal structure of BT2081 at 2.05 Å resolution represents the first structure from this new protein family. BT2081 consists of an N-terminal domain, which adopts a β-sandwich immunoglobulin-like fold, and a larger C-terminal domain with a β-sandwich jelly-roll fold. Structural analyses reveal that both domains are similar to those found in various carbohydrate-active enzymes. The C-terminal β-jelly-roll domain contains a potential carbohydrate-binding site that is highly conserved among BT2081 homologs and is situated in the same location as the carbohydrate-binding sites that are found in structurally similar glycoside hydrolases (GHs). However, in BT2081 this site is partially occluded by surrounding loops, which results in a deep solvent-accessible pocket rather than a shallower solvent-exposed cleft.'

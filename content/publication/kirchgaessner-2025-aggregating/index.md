@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2025-05-18'
-lastmod: 2026-09-23T23:37:13.107169Z
+lastmod: 2026-09-23
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2026-09-23T23:37:13.107169Z'
+publishDate: '2026-09-23'
 publication_types:
 - '2'
 abstract: 'AI based embeddings offer the possibilities of encoding complex biological data into low dimensional spaces, called embedding spaces, that maintain the relationships between entities. There is an open question about the compatibility of embedding spaces that are created without any coordination. It has been assumed that signals in these unaligned embedding spaces would be destroyed if vectors were aggregated into summed values. We trained embedding models across different data modalities and tested aggregating the values together to test this assumption. Our research shows that signal from unaligned embedded values is conserved and able to still be used for learning tasks, such as data modality and tumor of origin recognition.'

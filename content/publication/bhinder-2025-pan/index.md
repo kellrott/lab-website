@@ -59,7 +59,7 @@ authors:
 tags: []
 categories: []
 date: '2025-07-04'
-lastmod: 2026-09-23T23:37:13.107169Z
+lastmod: 2026-09-23
 featured: false
 draft: false
 
@@ -77,7 +77,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2026-09-23T23:37:13.107169Z'
+publishDate: '2026-09-23'
 publication_types:
 - '2'
 abstract: 'Traditional gene expression deconvolution methods assess a limited number of cell types, therefore do not capture the full complexity of the tumor microenvironment (TME). Here, we integrate nine deconvolution tools to assess 79 TME cell types in 10,592 tumors across 33 different cancer types, creating the most comprehensive analysis of the TME. In total, we found 41 patterns of immune infiltration and stroma profiles, identifying heterogeneous yet unique TME portraits for each cancer and several new findings. Our findings indicate that leukocytes play a major role in distinguishing various tumor types, and that a shared immune-rich TME cluster predicts better survival in bladder cancer for luminal and basal squamous subtypes, as well as in melanoma for RAS-hotspot subtypes. Our detailed deconvolution and mutational correlation analyses uncover 35 therapeutic target and candidate response biomarkers hypotheses (including CASP8 and RAS pathway genes).'

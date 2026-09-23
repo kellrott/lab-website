@@ -36,7 +36,7 @@ authors:
 tags: []
 categories: []
 date: '2022-01-12'
-lastmod: 2026-09-23T23:37:13.107169Z
+lastmod: 2026-09-23
 featured: false
 draft: false
 
@@ -54,7 +54,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2026-09-23T23:37:13.107169Z'
+publishDate: '2026-09-23'
 publication_types:
 - '2'
 abstract: 'The NHGRI Genomic Data Science Analysis, Visualization, and Informatics Lab-space (AnVIL; https://anvilproject.org) was developed to address a widespread community need for a unified computing environment for genomics data storage, management, and analysis. In this perspective, we present AnVIL, describe its ecosystem and interoperability with other platforms, and highlight how this platform and associated initiatives contribute to improved genomic data sharing efforts. The AnVIL is a federated cloud platform designed to manage and store genomics and related data, enable population-scale analysis, and facilitate collaboration through the sharing of data, code, and analysis results. By inverting the traditional model of data sharing, the AnVIL eliminates the need for data movement while also adding security measures for active threat detection and monitoring and provides scalable, shared computing resources for any researcher. We describe the core data management and analysis components of the AnVIL, which currently consists of Terra, Gen3, Galaxy, RStudio/Bioconductor, Dockstore, and Jupyter, and describe several flagship genomics datasets available within the AnVIL. We continue to extend and innovate the AnVIL ecosystem by implementing new capabilities, including mechanisms for interoperability and responsible data sharing, while streamlining access management. The AnVIL opens many new opportunities for analysis, collaboration, and data sharing that are needed to drive research and to make discoveries through the joint analysis of hundreds of thousands to millions of genomes along with associated clinical and molecular data types.'
