@@ -1,2 +1,4 @@
 /resources
 /public
+/scripts/pubmed_review.tsv
+/scripts/.venv

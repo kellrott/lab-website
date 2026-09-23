@@ -1,0 +1,56 @@
+{{/*
+    Local override of the module's `table` shortcode.
+
+    The pinned Wowchemy v5 module (v5.0.0-20220423...) uses Hugo's `getCSV`/`putCSV`
+    functions, which were removed from Hugo. This local override lives in the site
+    and shadows the module's layouts/shortcodes/table.html so the site builds on
+    modern Hugo (>= 0.148, tested on 0.166).
+
+    It preserves the v5 (Bootstrap) markup and loads the CSV from a page-relative
+    resource (or a remote URL), replacing getCSV with transform.Unmarshal.
+*/}}
+{{/* Load a CSV table from page dir, falling back to a remote URL. */}}
+{{/* Defaults to a comma-separated CSV with a header row. */}}
+
+{{ $src := .Get "path" }}
+{{ $delimiter := .Get "delimiter" | default "," }}
+{{ $useHeaderRow := (eq (lower (.Get "header")) "true") | default true }}
+{{ $caption := .Get "caption" }}
+
+{{ $is_remote := strings.HasPrefix $src "http" }}
+{{ $rows := slice }}
+{{ if $is_remote }}
+  {{- with resources.Get $src -}}
+    {{ $rows = transform.Unmarshal (dict "delimiter" $delimiter) .Content }}
+  {{- end -}}
+{{ else }}
+  {{- with .Page.Resources.Get $src -}}
+    {{ $rows = transform.Unmarshal (dict "delimiter" $delimiter) .Content }}
+  {{- end -}}
+{{ end }}
+
+<table class="table">
+  {{ if $useHeaderRow }}
+    {{ $headerRow := index $rows 0 }}
+    {{ $rows = after 1 $rows }}
+    <tr>
+      {{ range $headerRow }}
+        <th>{{ . | markdownify | emojify }}</th>
+      {{ end }}
+    </tr>
+  {{ end }}
+  {{ range $rows }}
+    <tr>
+      {{ range . }}
+        {{ if (findRE "^\\d+$" .) }}
+          <td data-table-dtype="number">{{ . }}</td>
+        {{ else }}
+          <td data-table-dtype="text">{{ . | markdownify | emojify }}</td>
+        {{ end }}
+      {{ end }}
+    </tr>
+  {{ end }}
+  {{ if $caption }}
+    <caption>{{ $caption | markdownify | emojify }}</caption>
+  {{ end }}
+</table>

@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: A computational pipeline for protein structure prediction and analysis at genome
-  scale
+title: 'A computational pipeline for protein structure prediction and analysis at genome scale'
 subtitle: ''
 summary: ''
 authors:
@@ -17,8 +16,8 @@ authors:
 - Ying Xu
 tags: []
 categories: []
-date: '2003-01-01'
-lastmod: 2022-07-20T10:04:11-07:00
+date: '2003-10-12'
+lastmod: 2026-09-23T23:37:13.107169Z
 featured: false
 draft: false
 
@@ -36,9 +35,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-20T17:04:10.337015Z'
+publishDate: '2026-09-23T23:37:13.107169Z'
 publication_types:
 - '2'
-abstract: ''
-publication: '*Bioinformatics*'
+abstract: 'Experimental techniques alone cannot keep up with the production rate of protein sequences, while computational techniques for protein structure predictions have matured to such a level to provide reliable structural characterization of proteins at large scale. Integration of multiple computational tools for protein structure prediction can complement experimental techniques. We present an automated pipeline for protein structure prediction. The centerpiece of the pipeline is our threading-based protein structure prediction system PROSPECT. The pipeline consists of a dozen tools for identification of protein domains and signal peptide, protein triage to determine the protein type (membrane or globular), protein fold recognition, generation of atomic structural models, prediction result validation, etc. Different processing and prediction branches are determined automatically by a prediction pipeline manager based on identified characteristics of the protein. The pipeline has been implemented to run in a heterogeneous computational environment as a client/server system with a web interface. Genome-scale applications on Caenorhabditis elegans, Pyrococcus furiosus and three cyanobacterial genomes are presented. The pipeline is available at http://compbio.ornl.gov/proteinpipeline/'
+publication: '*Bioinformatics (Oxford, England)*'
+doi: 10.1093/bioinformatics/btg262
+pmid: '14555633'
 ---

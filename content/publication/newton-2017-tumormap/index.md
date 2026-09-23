@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'TumorMap: exploring the molecular similarities of cancer samples in an interactive
-  portal'
+title: 'TumorMap: Exploring the Molecular Similarities of Cancer Samples in an Interactive Portal'
 subtitle: ''
 summary: ''
 authors:
@@ -16,11 +15,15 @@ authors:
 - Robert Baertsch
 - Sofie R Salama
 - Kyle Ellrott
-- ' others'
+- Manu Chopra
+- Theodore C Goldstein
+- David Haussler
+- Olena Morozova
+- Joshua M Stuart
 tags: []
 categories: []
-date: '2017-01-01'
-lastmod: 2022-07-20T10:05:05-07:00
+date: '2017-11-01'
+lastmod: 2026-09-23T23:37:13.107169Z
 featured: false
 draft: false
 
@@ -38,9 +41,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-20T17:05:03.765358Z'
+publishDate: '2026-09-23T23:37:13.107169Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: 'Vast amounts of molecular data are being collected on tumor samples, which provide unique opportunities for discovering trends within and between cancer subtypes. Such cross-cancer analyses require computational methods that enable intuitive and interactive browsing of thousands of samples based on their molecular similarity. We created a portal called TumorMap to assist in exploration and statistical interrogation of high-dimensional complex "omics" data in an interactive and easily interpretable way. In the TumorMap, samples are arranged on a hexagonal grid based on their similarity to one another in the original genomic space and are rendered with Google''s Map technology. While the important feature of this public portal is the ability for the users to build maps from their own data, we pre-built genomic maps from several previously published projects. We demonstrate the utility of this portal by presenting results obtained from The Cancer Genome Atlas project data. Cancer Res; 77(21); e111-4. ©2017 AACR.'
 publication: '*Cancer research*'
+doi: 10.1158/0008-5472.CAN-17-0580
+pmid: '29092953'
 ---

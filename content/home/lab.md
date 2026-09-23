@@ -15,8 +15,13 @@ weight = 20
 
 +++
 
-Our lab works on the intersection of computer engineering, statistical analysis and biology science.
-Based out of the [OHSU Knight Cancer Institute](https://www.ohsu.edu/xd/health/services/cancer/research-training/index.cfm)
-we study systems biology, cancer, computational systems and integrative analysis. We work on projects funded by the
-Nation Cancer Institute (NCI) and the National Human Genome Research Institute (NHGRI).
+Our lab brings together computer engineering, statistical analysis, and biology to understand complex biological systems
+and cancer. Based at the [OHSU Knight Cancer Institute](https://www.ohsu.edu/xd/health/services/cancer/research-training/index.cfm),
+we develop computational approaches for systems biology, integrative analysis, and cancer research.
+
+Our research spans reliable data systems, statistical and machine-learning methods, and collaborative challenges
+that help researchers address difficult biomedical questions. We emphasize open, reproducible tools and analyses
+that make complex biological data more useful for discovery.
+
+Our work is supported by the National Cancer Institute (NCI) and the National Human Genome Research Institute (NHGRI).
 

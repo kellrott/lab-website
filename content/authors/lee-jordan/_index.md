@@ -34,7 +34,7 @@ interests:
   - "Cancer Early Detection"
 
 user_groups:
-  - "Researchers"
+  - "Alumni"
 
 ---
 

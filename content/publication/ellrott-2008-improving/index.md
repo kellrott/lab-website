@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Improving the performance of protein threading using insertion/deletion frequency
-  arrays
+title: 'Improving the performance of protein threading using insertion/deletion frequency arrays'
 subtitle: ''
 summary: ''
 authors:
@@ -12,8 +11,8 @@ authors:
 - Ying Xu
 tags: []
 categories: []
-date: '2008-01-01'
-lastmod: 2022-07-20T10:04:21-07:00
+date: '2008-06-01'
+lastmod: 2026-09-23T23:37:13.107169Z
 featured: false
 draft: false
 
@@ -31,9 +30,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-20T17:04:20.477378Z'
+publishDate: '2026-09-23T23:37:13.107169Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: 'As a protein evolves, not every part of the amino acid sequence has an equal probability of being deleted or for allowing insertions, because not every amino acid plays an equally important role in maintaining the protein structure. However, the most prevalent models in fold recognition methods treat every amino acid deletion and insertion as equally probable events. We have analyzed the alignment patterns for homologous and analogous sequences to determine patterns of insertion and deletion, and used that information to determine the statistics of insertions and deletions for different amino acids of a target sequence. We define these patterns as insertion/deletion (indel) frequency arrays (IFAs). By applying IFAs to the protein threading problem, we have been able to improve the alignment accuracy, especially for proteins with low sequence identity. We have also demonstrated that the application of this information can lead to an improvement in fold recognition.'
 publication: '*Journal of bioinformatics and computational biology*'
+doi: 10.1142/s0219720008003552
+pmid: '18574864'
 ---

@@ -15,7 +15,7 @@ interests:
   - "Precision Oncology"
 
 user_groups:
-- Grad Students
+- Alumni
 
 ---
 

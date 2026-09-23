@@ -1,17 +1,17 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: A historical perspective of template-based protein structure prediction
+title: 'A historical perspective of template-based protein structure prediction'
 subtitle: ''
 summary: ''
 authors:
-- Jun-tao Guo
+- Jun-Tao Guo
 - Kyle Ellrott
 - Ying Xu
 tags: []
 categories: []
 date: '2008-01-01'
-lastmod: 2022-07-20T10:04:19-07:00
+lastmod: 2026-09-23T23:37:13.107169Z
 featured: false
 draft: false
 
@@ -29,9 +29,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-20T17:04:19.019679Z'
+publishDate: '2026-09-23T23:37:13.107169Z'
 publication_types:
-- '6'
-abstract: ''
-publication: '*Protein Structure Prediction*'
+- '2'
+abstract: 'This chapter presents a broad and a historical overview of the problem of protein structure prediction. Different structure prediction methods, including homology modeling, fold recognition (FR)/protein threading, ab initio/de novo approaches, and hybrid techniques involving multiple types of approaches, are introduced in a historical context. The progress of the field as a whole, especially in the threading/FR area, as reflected by the CASP/CAFASP contests, is reviewed. At the end of the chapter, we discuss the challenging issues ahead in the field of protein structure prediction.'
+publication: '*Methods in molecular biology (Clifton, N.J.)*'
+doi: 10.1007/978-1-59745-574-9_1
+pmid: '18075160'
 ---

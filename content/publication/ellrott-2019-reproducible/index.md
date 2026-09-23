@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Reproducible biomedical benchmarking in the cloud: lessons from crowd-sourced
-  data challenges'
+title: 'Reproducible biomedical benchmarking in the cloud: lessons from crowd-sourced data challenges'
 subtitle: ''
 summary: ''
 authors:
@@ -16,11 +15,14 @@ authors:
 - John M Chilton
 - Thomas Yu
 - Joshua M Stuart
-- ' others'
+- Julio Saez-Rodriguez
+- Gustavo Stolovitzky
+- Paul C Boutros
+- Justin Guinney
 tags: []
 categories: []
-date: '2019-01-01'
-lastmod: 2022-07-20T10:05:29-07:00
+date: '2019-09-10'
+lastmod: 2026-09-23T23:37:13.107169Z
 featured: false
 draft: false
 
@@ -38,9 +40,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-20T17:05:27.919048Z'
+publishDate: '2026-09-23T23:37:13.107169Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: 'Challenges are achieving broad acceptance for addressing many biomedical questions and enabling tool assessment. But ensuring that the methods evaluated are reproducible and reusable is complicated by the diversity of software architectures, input and output file formats, and computing environments. To mitigate these problems, some challenges have leveraged new virtualization and compute methods, requiring participants to submit cloud-ready software packages. We review recent data challenges with innovative approaches to model reproducibility and data sharing, and outline key lessons for improving quantitative biomedical data analysis through crowd-sourced benchmarking challenges.'
 publication: '*Genome biology*'
+doi: 10.1186/s13059-019-1794-0
+pmid: '31506093'
 ---

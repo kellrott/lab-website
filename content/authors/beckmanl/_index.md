@@ -44,7 +44,7 @@ interests:
   - "Computational Biology"
 
 user_groups:
-  - "Researchers"
+  - "Alumni"
 
 ---
 

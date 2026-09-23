@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Global optimization of somatic variant identification in cancer genomes with
-  a global community challenge
+title: 'Global optimization of somatic variant identification in cancer genomes with a global community challenge'
 subtitle: ''
 summary: ''
 authors:
@@ -16,11 +15,15 @@ authors:
 - Christine Suver
 - J Christopher Bare
 - Lincoln D Stein
-- ' others'
+- Paul T Spellman
+- Gustavo Stolovitzky
+- Stephen H Friend
+- Adam A Margolin
+- Joshua M Stuart
 tags: []
 categories: []
-date: '2014-01-01'
-lastmod: 2022-07-20T10:04:47-07:00
+date: '2014-04-01'
+lastmod: 2026-09-23T23:37:13.107169Z
 featured: false
 draft: false
 
@@ -38,9 +41,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-20T17:04:47.065616Z'
+publishDate: '2026-09-23T23:37:13.107169Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Nature genetics*'
+doi: 10.1038/ng.2932
+pmid: '24675517'
 ---

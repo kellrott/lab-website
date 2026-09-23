@@ -46,7 +46,7 @@ interests:
   - "Data Seience"
 
 user_groups:
-  - "Researchers"
+  - "Alumni"
 
 ---
 
